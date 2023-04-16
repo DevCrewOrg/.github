@@ -20,6 +20,4 @@ A passionate developers from India who solve real world problems!
 <li><a href = "https://github.com/Sri-vatshan-3444">Sri Vatshan V</a></li>
 <li><a href = "https://github.com/rishikesh2003">Rishikesh</a></li>
 <li><a href = "https://github.com/suhan-thirumalaisamy/suhan-thirumalaisamy">Suhan T</a></li>
-<li><a href = "https://github.com/Vishweshvaran">Vishveshwaran M</a></li>
-<li><a href = "https://github.com/sanjay2004">Sanjay V</a></li>
 </ul>
