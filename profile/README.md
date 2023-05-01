@@ -16,8 +16,8 @@ A passionate developers from India who solve real world problems!
 ## 👨🏻‍💻 Community Members
 
 <ul>
+<li><a href = "https://github.com/rishikesh2003">Rishikesh S</a></li>
 <li><a href = "https://github.com/vasanthgk02">Vasanth Kumar G</a></li>
 <li><a href = "https://github.com/Sri-vatshan-3444">Sri Vatshan V</a></li>
-<li><a href = "https://github.com/rishikesh2003">Rishikesh</a></li>
 <li><a href = "https://github.com/suhan-thirumalaisamy/suhan-thirumalaisamy">Suhan T</a></li>
 </ul>
